@@ -48,14 +48,14 @@ export default function Page() {
           </div>
           <img 
             src={gayhamster}
-            className="fixed bottom-10 md:w-40 w-28"
+            className="fixed bottom-10 md:w-50 w-28"
           />
         </>
       ) : (
         <>
           <img 
             src={hamsterhold}
-            className="h-[230px] rounded-lg shadow-lg"
+            className="h-[240px] rounded-lg shadow-lg"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
             Sarah, Will you be my Valentine?
