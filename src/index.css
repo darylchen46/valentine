@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Protest+Riot&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -8,7 +8,7 @@
   box-sizing: border-box;
 }
 :root {
-  font-family: "Roboto", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Protest Riot", system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   font-synthesis: none;
@@ -17,7 +17,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 body {
-  background-color: pink;
+  background: url("./assets/bg1.webp");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
