@@ -26,11 +26,11 @@ export default function Page() {
       "This could be a mistake!",
       "Have a heart!",
       "Don't be so cold!",
-      "Change of heart?",
+      "Im begging you",
       "Wouldn't you reconsider?",
       "Is that your final answer?",
       "You're breaking my heart ;(",
-      "Is that your final answer?",
+      "Pwease bb",
       "You're breaking my heart ;(",
       "Plsss? :( You're breaking my heart",
     ];
