@@ -48,7 +48,7 @@ export default function Page() {
           </div>
           <img 
             src={gayhamster}
-            className="fixed bottom-10 md:w-50 w-28"
+            className="fixed bottom-10 md:w-60 w-28"
           />
         </>
       ) : (
